@@ -1,0 +1,15 @@
+{
+    "name": "Streamers",
+    "description": " To manage your various social media feeds.",
+    "version": "0.1.0",
+    "app": {
+        "launch": {
+            "local_path": "main.html"
+        }
+    },
+    "icons": {
+        "16": "icon_16.png",
+        "48": "icon_48.png",
+        "128": "icon_128.png"
+    }
+}
